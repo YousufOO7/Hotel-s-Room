@@ -1,0 +1,33 @@
+[
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREEqWXVqaclhIgKi4J32JNRy1NBKOwHSJBhg&s",
+      "feature": "Airport Transfer",
+      "description": "Enjoy hassle-free airport transportation with our reliable transfer service."
+    },
+    {
+      "image": "https://static.vecteezy.com/system/resources/thumbnails/007/547/694/small_2x/valet-parking-with-ticket-image-and-multiple-cars-on-public-car-park-in-flat-background-cartoon-illustration-vector.jpg",
+      "feature": "Car Parking",
+      "description": "Secure and spacious car parking facilities available for all guests."
+    },
+    {
+      "image": "https://www.shutterstock.com/image-vector/nfc-credit-card-reader-linear-260nw-1170048607.jpg",
+      "feature": "Card Access Lift",
+      "description": "Enhanced security with card access control for elevator usage."
+    },
+    {
+      "image": "https://media.istockphoto.com/id/588262938/vector/free-wifi-icon-wireless-connection-sticker.jpg?s=612x612&w=0&k=20&c=gdICd0u4jVhMVpYzq-ylflpNaxy1-NA0_elvAV_xkQ4=",  
+      "feature": "Free Wifi",
+      "description": "Stay connected with high-speed complimentary Wi-Fi throughout the property."
+    },
+    {
+      "image": "https://cdni.iconscout.com/illustration/premium/thumb/smart-tv-illustration-download-in-svg-png-gif-file-formats--lcd-led-display-screen-wifi-controlled-home-technologies-pack-science-technology-illustrations-3816708.png?f=webp", 
+      "feature": "Smart TV",
+      "description": "Experience entertainment at its best with our modern Smart TV options."
+    },
+    {
+      "image": "https://png.pngtree.com/png-clipart/20210308/original/pngtree-housekeeping-cleaning-staff-original-hand-drawn-cartoon-png-image_5772959.jpg", 
+      "feature": "Daily Housekeeping",
+      "description": "Enjoy spotless rooms and fresh linens with our daily housekeeping service."
+    }
+  ]
+  

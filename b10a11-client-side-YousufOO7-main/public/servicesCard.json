@@ -1,0 +1,19 @@
+[
+  {
+    "category": "Dine & Drink",
+    "title": "5 Star Michelin",
+    "description": "Experience gourmet cuisine crafted by world-class chefs, in a cozy and elegant ambiance.",
+    "timing": "Open Daily: 7:00 pm - 11:00 pm",
+    "cta": "Dining With Us",
+    "image": "https://www.dishoom.com/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fdaku84np%2Fproduction%2F0baa05721dbe1bccdcd3706798210f76becbb1ef-2048x1365.jpg%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75"
+  },
+  {
+    "category": "SPA & WELLNESS",
+    "title": "Mission Revival",
+    "description": "A architectural style inspired by California's Spanish missions, featuring stucco walls, red tile roofs, and arched openings. It emphasizes simplicity and historical charm.",
+    "timing": "Open Daily: 7:00 pm - 11:00 pm",
+    "cta":"Dining With Us",
+    "image": "https://content3.jdmagicbox.com/comp/karnal/g9/9999px184.x184.180606153534.c9g9/catalogue/the-eden-sppa-and-health-care-karnal-city-karnal-body-massage-centres-tbncfop2rs.jpg"
+  }
+]
+  

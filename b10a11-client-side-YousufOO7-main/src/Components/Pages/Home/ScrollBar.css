@@ -1,0 +1,10 @@
+.scroll-container {
+    overflow-y: scroll; /* Enable scrolling */
+    scrollbar-width: none; /* For Firefox: hides scrollbar */
+    -ms-overflow-style: none; /* For IE and Edge: hides scrollbar */
+  }
+  
+  .scroll-container::-webkit-scrollbar {
+    display: none; /* For Chrome, Safari, and Opera: hides scrollbar */
+  }
+  
